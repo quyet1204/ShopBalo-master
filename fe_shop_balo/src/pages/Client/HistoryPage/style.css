@@ -1,0 +1,7 @@
+.nav-history > .active {
+    background-color: #6272d9;
+    color: #fff;
+    font-weight: bolder;
+    padding: 0.5em 1rem;
+    border-radius:0.3rem;
+}
