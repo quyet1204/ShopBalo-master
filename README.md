@@ -1,6 +1,6 @@
 ﻿# Project: SHOPBALO
 
-Github Project: https://github.com/tanthuan031/SHOPBALO.git
+Github Project: [https://github.com/quyet1204/ShopBalo-master]
 
 ### BackEnd: Laravel
 
